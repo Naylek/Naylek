@@ -4,7 +4,7 @@ Kelyan Baillargeau
 ===
 
 
-`Présentation`
+#`Présentation`
 
 Bonjour, je suis Kelyan Baillargeau, passionné de développement et d'informatique en général :)
 
@@ -14,19 +14,19 @@ Vous pouvez aussi me laisser un message sur LinkedIn
 https://www.linkedin.com/in/kelyan-baillargeau ;)
 
 
-`Formation`
+##`Formation`
 
 - **BAC S** SVT, spécialité ISN, Lycée Condorcet à Limay
 
 - **DUT informatique**, IUT de Villetaneuse
 
 
-`Expérience professionnelle`
+###`Expérience professionnelle`
 
 **Développeur Web** chez Insersite : 1er avril 2022 - 23 juin 2023
 
 
 
-`Hobbies`
+####`Hobbies`
 
 Chant | Musique | Théâtre | Jeux vidéos | Séries / Ciné
