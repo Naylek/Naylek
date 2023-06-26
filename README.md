@@ -15,7 +15,7 @@ Vous pouvez aussi me laisser un message sur LinkedIn
 https://www.linkedin.com/in/kelyan-baillargeau ;)
 
 
-`Formation`
+`Formations`
 ---
 
 - **BAC S** SVT, spécialité ISN, Lycée Condorcet à Limay
