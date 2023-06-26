@@ -1,16 +1,32 @@
-### Hi there 👋
+<img src="https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270_1280.jpg" width="300">
 
-<!--
-**Naylek/Naylek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kelyan Baillargeau
+===
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###`Présentation`
+
+Bonjour, je suis Kelyan Baillargeau, passionné de développement et d'informatique en général :)
+
+Venez me retrouver sur git [ici](https://github.com/Naylek).
+
+Vous pouvez aussi me laisser un message sur LinkedIn
+https://www.linkedin.com/in/kelyan-baillargeau ;)
+
+
+###`Formation`
+
+- **BAC S** SVT, spécialité ISN, Lycée Condorcet à Limay
+
+- **DUT informatique**, IUT de Villetaneuse
+
+
+###`Expérience professionnelle`
+
+**Développeur Web** chez Insersite : 1er avril 2022 - 23 juin 2023
+
+
+
+###`Hobbies`
+
+Chant | Musique | Théâtre | Jeux vidéos | Séries / Ciné
