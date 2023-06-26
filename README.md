@@ -18,9 +18,11 @@ https://www.linkedin.com/in/kelyan-baillargeau ;)
 `Formations`
 ---
 
-- **BAC S** SVT, spécialité ISN, Lycée Condorcet à Limay
+- **Formation Développeur en Cybersécurité**, WildCodeSchool, 2023
 
-- **DUT informatique**, IUT de Villetaneuse
+- **DUT informatique**, IUT de Villetaneuse, 2020
+
+- **BAC S** SVT, spécialité ISN, Lycée Condorcet à Limay, 2017
 
 
 `Expérience professionnelle`
@@ -33,4 +35,4 @@ https://www.linkedin.com/in/kelyan-baillargeau ;)
 `Hobbies`
 ---
 
-Chant | Musique | Théâtre | Jeux vidéos | Séries / Ciné
+*Chant* | *Musique* | *Théâtre* | *Jeux vidéos* | *Séries / Ciné*
